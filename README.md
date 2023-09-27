@@ -19,6 +19,6 @@ Homework assignment #4: Explore web-based platforms for interactive data visuali
     - None. Although I didn't have any issues deploying the Shiny R app, the posit cloud environment was new to me. Therefore, it took me some time to adjust to it.
 
 - Challenges encountered while deploying the Flask app:
-    - None. Everything went smoothly. Here is a screenshot of the Flask app:
+    - None. Here is a screenshot of the Flask app:
 
     ![Alt text](https://github.com/Beczheng/datasci_4_web_viz/blob/main/screenshots/Screenshot2.png)    
