@@ -7,8 +7,8 @@ Homework assignment #4: Explore web-based platforms for interactive data visuali
 
 ### **Reflections on the assignment**
 - Links to the Shiny apps:
-    - **Shiny Python app:** https://gfvcry-beckie-zheng.shinyapps.io/shiny_python_app/
-    - **Shiny R app:** https://gfvcry-beckie-zheng.shinyapps.io/shiny_r_app/
+    - Shiny Python app: https://gfvcry-beckie-zheng.shinyapps.io/shiny_python_app/
+    - Shiny R app: https://gfvcry-beckie-zheng.shinyapps.io/shiny_r_app/
 
 - Challenges encountered while deploying the Shiny Python app:
     - To deploy the Shiny Python app, I used `rsconnect deploy shiny </path/to/app> --name <name> --title <name of app>`. However, it gave me an error message saying:
