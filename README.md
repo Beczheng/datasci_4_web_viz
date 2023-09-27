@@ -12,8 +12,8 @@ Homework assignment #4: Explore web-based platforms for interactive data visuali
 
 ![Alt text](https://github.com/Beczheng/datasci_4_web_viz/blob/main/screenshots/Screenshot.png)
 
-    - To fix this, I created a requirements.txt file.
-
 3. Challenges encountered while deploying the Shiny R app:
     - While I didn't have any issues deploying the Shiny R app, the posit cloud environment was new to me. Therefore, it took me some time to adjust to it.
 
+4. Challenges encountered while deploying the Flask app.
+    - None.
