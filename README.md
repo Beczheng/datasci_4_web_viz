@@ -10,7 +10,7 @@ Links to the Shiny apps:
 Challenges encountered while deploying the Shiny Python app:
 - To deploy the Shiny Python app, I used `rsconnect deploy shiny </path/to/app> --name <name> --title <name of app>`. However, it gave me an error message saying:
 
-\Screenshot 2023-09-26 150458.png
+![Alt text](/home/beckie_zheng/datasci_4_web_viz/screenshots/Screenshot.png?raw = true)
 
 - To fix this, I created a requirements.txt file.
 
